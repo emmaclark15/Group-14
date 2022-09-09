@@ -1,6 +1,6 @@
 ---
 title: "Session 6: Homework 3"
-author: "Your name goes here"
+author: "Emma Clark, Alice Chen, Kavya Mahesh, Andrew Leng, Joël Merki"
 date: "`r Sys.Date()`"
 output:
   html_document:
@@ -11,9 +11,6 @@ output:
     toc_float: yes
     code_folding: show
 ---
-
-
-write some shit
 
 
 ```{r, setup, echo=FALSE}
