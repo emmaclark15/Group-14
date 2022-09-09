@@ -1,6 +1,6 @@
 ---
 title: "Session 6: Homework 3"
-author: "Your name goes here"
+author: "Emma Clark, Alice Chen, Kavya Mahesh, Andrew Leng, Joël Merki"
 date: "`r Sys.Date()`"
 output:
   html_document:
@@ -12,6 +12,10 @@ output:
     code_folding: show
 ---
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f0b6454d05354c2221f599edb47ba87b0150d247
 ```{r, setup, echo=FALSE}
 knitr::opts_chunk$set(
   message = FALSE, 
