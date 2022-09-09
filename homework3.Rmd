@@ -12,10 +12,6 @@ output:
     code_folding: show
 ---
 
-
-write some shit
-
-
 ```{r, setup, echo=FALSE}
 knitr::opts_chunk$set(
   message = FALSE, 
