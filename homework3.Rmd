@@ -12,10 +12,6 @@ output:
     code_folding: show
 ---
 
-<<<<<<< HEAD
-=======
-
->>>>>>> f0b6454d05354c2221f599edb47ba87b0150d247
 ```{r, setup, echo=FALSE}
 knitr::opts_chunk$set(
   message = FALSE, 
